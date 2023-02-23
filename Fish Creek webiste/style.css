@@ -7,7 +7,7 @@ body{
 
 header{
     background-color: #003366;
-    color: #5280C5;
+    color: #AEC3E3;
     background-image: url("images/lilyheader.jpg");
     background-size: 100% 100%;  
     text-align: left;
@@ -57,6 +57,12 @@ main{
 .studio{
     color:#8C3826;
     font-style: italic;
+}
+.house{
+    color:#5280C5;
+}
+.chad{
+    font: Comic;
 }
 
 /* id styling where you can apply to tags with this id  */
