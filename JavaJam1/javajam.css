@@ -33,6 +33,14 @@
 	#heroguitar { background-image: url(img/guitar.jpg);
 				background-size: 100% 100%;
 				height:250px; }
+				
+	#herocups { background-image: url(img/coffeecup.jpg);
+				background-size: 100% 100%;
+				height:250px; }
+			
+	#herocouch { background-image: url(img/herocouch.jpg);
+				background-size: 100% 100%;
+				height:250px; }
 
 	#mobile {display: inline;}
 	#desktop{display: none;}
@@ -156,6 +164,13 @@
 				height:250px; }
 				
 	#heroguitar { background-image: url(img/heroguitar.jpg);
+				background-size: 100% 100%;
+				height:250px; }
+
+	#herocups { background-image: url(img/coffeecup.jpg);
+				background-size: 100% 100%;
+				height:250px; }
+	#herocouch { background-image: url(img/herocouch.jpg);
 				background-size: 100% 100%;
 				height:250px; }
 
@@ -286,6 +301,12 @@
 	#heroguitar { background-image: url(img/heroguitar.jpg);
 				background-size: 100% 100%;
 				height:250px; }
+	#herocups { background-image: url(img/coffeecup.jpg);
+				background-size: 100% 100%;
+				height:250px; }
+	#herocouch { background-image: url(img/herocouch.jpg);
+				background-size: 100% 100%;
+				height:250px; }
 
 	nav a:link { color: #FEF6C2; }
 	nav a:visited { color: #D2B48C; }
@@ -347,19 +368,19 @@
 			padding-right: 20%;
 			overflow: auto; }
 			
-	#wrapper { background-color: #231814;
+	 #wrapper { background-color: #231814;
 			width: 80%;
 			min-width: 900px;
 			max-width: 1280px;
 			box-shadow: 3px 3px 3px #333;
 			margin-right: auto;
-			margin-left: auto;
-			display: grid;
+			margin-left: auto; 
+			/* display: grid;
 			grid-template: 
 			"header header"
 			"nav    main"
 			"footer  footer"
-			/ 200px; }
+			/ 200px;*/ } 
 			
 
 	#nav-bar{
