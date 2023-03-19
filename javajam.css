@@ -1,6 +1,23 @@
-table{margin: auto;    width: 90%;    border-spacing: 0;    background-color: #FEF6C2;}
-td,th{padding: 10px;}
-tr:nth-last-of-type(odd){    background-color: #D2B48E;}
+table{
+	width: 90%;
+	border-spacing: 0;
+	border-collapse: collapse;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+td{
+	padding: 10px;
+}
+  
+th{
+	padding: 10px;
+}
+  
+tr:nth-of-type(odd){
+background-color: #d2b48e;
+}
 .item{
     background-color: #FAF9F7;
     margin: 1em;
